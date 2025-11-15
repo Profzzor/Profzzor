@@ -41,7 +41,7 @@
   ### 🛡️ Cybersecurity Tools & Frameworks
   <p align="center">
     <img src="https://img.shields.io/badge/Ghidra-5a5a5a.svg?&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/IDA Pro-5a5a5a.svg?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/IDA-5a5a5a.svg?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/BinaryNinja-5a5a5a.svg?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/Volatility-5a5a5a.svg?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/FTK Imager-5a5a5a.svg?&style=for-the-badge" />
