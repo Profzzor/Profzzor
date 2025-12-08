@@ -21,7 +21,7 @@
   <p align="center">
     <a href="https://github.com/Profzzor">
       <!-- <img src="https://github-readme-stats.vercel.app/api?username=Profzzor&show_icons=true&theme=transparent&hide_border=true" alt="Profzzor's GitHub stats" /> -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Profzzor&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+      <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Profzzor&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" /> -->
     </a>
   </p>
 
